@@ -1,0 +1,17 @@
+                                  List of databases
+   Name    |  Owner   | Encoding |   Collate   |    Ctype    |   Access privileges   
+-----------+----------+----------+-------------+-------------+-----------------------
+ crmeasyDB | postgres | UTF8     | en_US.UTF-8 | en_US.UTF-8 | 
+ mydb      | postgres | UTF8     | en_US.UTF-8 | en_US.UTF-8 | 
+ physics   | postgres | UTF8     | en_US.UTF-8 | en_US.UTF-8 | 
+ postgres  | postgres | UTF8     | en_US.UTF-8 | en_US.UTF-8 | 
+ scrape    | postgres | UTF8     | en_US.UTF-8 | en_US.UTF-8 | 
+ serveight | postgres | UTF8     | en_US.UTF-8 | en_US.UTF-8 | 
+ servpost  | postgres | UTF8     | en_US.UTF-8 | en_US.UTF-8 | 
+ stockdb   | postgres | UTF8     | en_US.UTF-8 | en_US.UTF-8 | 
+ template0 | postgres | UTF8     | en_US.UTF-8 | en_US.UTF-8 | =c/postgres          +
+           |          |          |             |             | postgres=CTc/postgres
+ template1 | postgres | UTF8     | en_US.UTF-8 | en_US.UTF-8 | =c/postgres          +
+           |          |          |             |             | postgres=CTc/postgres
+(10 rows)
+
